@@ -1,13 +1,20 @@
+![Banner Image](https://media.licdn.com/dms/image/C4D12AQHVwwANhww7Og/article-cover_image-shrink_600_2000/0/1617571765164?e=2147483647&v=beta&t=vSswZXpLUxZ6pGAn5JG8gCMw8xzcGFeQbOaGAZ2wUxU)
 <h1 align="center">Hi 👋, I'm Tayssir Andolsi</h1>
 <h3 align="center">A passionate data science engineering student from tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andolsitayssir&label=Profile%20views&color=0e75b6&style=flat" alt="andolsitayssir" /> </p>
-- 👩‍💻 **Data Science Engineering Student** at Tekup University
-- 💻 I'm an **AI & ML Enthusiast** working on **Machine Learning & Deep Learning projects**
-- 💻 Proficient in **Programming**: C, C++, Java, Python
-- 🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, Bootstrap, PHP
-- 💾 Skilled in **Database Management**: MySQL
-- ⚡ Fun fact **I love exploring new technologies and solving challenging problems!**
+
+-👩‍💻 **Data Science Engineering Student** at Tekup University
+  
+-💻 I'm an **AI & ML Enthusiast** working on **Machine Learning & Deep Learning projects**
+  
+-💻 Proficient in **Programming**: C, C++, Java, Python
+  
+-🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, Bootstrap, PHP
+  
+-💾 Skilled in **Database Management**: MySQL
+  
+-⚡ Fun fact **I love exploring new technologies and solving challenging problems!**
 
 
 
