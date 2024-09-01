@@ -6,7 +6,7 @@
 
 -👩‍💻 **Data Science Engineering Student** at Tekup University
   
--💻 I'm an **AI & ML Enthusiast** working on **Machine Learning & Deep Learning projects**
+-💻 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
   
 -💻 Proficient in **Programming**: C, C++, Java, Python
   
@@ -14,7 +14,7 @@
   
 -💾 Skilled in **Database Management**: MySQL
   
--⚡ Fun fact **I love exploring new technologies and solving challenging problems!**
+-⚡ Fun fact **Turning coding challenges into learning adventures, one bug at a time.**
 
 
 
