@@ -1,19 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Tayssir Andolsi</h1>
-<h3 align="center">A passionate data science engineering student from tunisia</h3>
+<h3 align="center">A passionate Engineering Student specialized in Data Science & AI from tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andolsitayssir&label=Profile%20views&color=0e75b6&style=flat" alt="andolsitayssir" /> </p>
 
--👩‍💻 **Data Science Engineering Student** at Tekup University
+-👩‍💻 **Engineering Student specialized in Data Science & AI** at Tekup University
   
--💻 I'm an **AI Enthusiast** working on **Machine Learning & Deep Learning projects**
+-💻  Working on **Machine Learning & Deep Learning projects**
   
 -💻 Proficient in **Programming**: C, C++, Java, Python
   
 -🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, Bootstrap, PHP
-  
--💾 Skilled in **Database Management**: MySQL
-  
+
 -⚡ Fun fact **Turning coding challenges into learning adventures, one bug at a time.**
 
 
