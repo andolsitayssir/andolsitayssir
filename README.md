@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4D12AQHVwwANhww7Og/article-cover_image-shrink_600_2000/0/1617571765164?e=2147483647&v=beta&t=vSswZXpLUxZ6pGAn5JG8gCMw8xzcGFeQbOaGAZ2wUxU" alt="Banner" style="width:100%;height:40vh">
+<img src="https://media.licdn.com/dms/image/C4D12AQHVwwANhww7Og/article-cover_image-shrink_600_2000/0/1617571765164?e=2147483647&v=beta&t=vSswZXpLUxZ6pGAn5JG8gCMw8xzcGFeQbOaGAZ2wUxU" alt="Banner" style="width:80%;height:30vh">
 <h1 align="center">Hi 👋, I'm Tayssir Andolsi</h1>
 <h3 align="center">A passionate data science engineering student from tunisia</h3>
 
