@@ -1,17 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm Tayssir Andolsi</h1>
+<h1 align="center">Hi , I'm Tayssir Andolsi</h1>
 <h3 align="center">A passionate Engineering Student specialized in Data Science & AI from tunisia</h3>
 
 
--👩‍💻 **Engineering Student specialized in Data Science & AI** at Tekup University
+**Engineering Student specialized in Data Science & AI** at Tekup University
   
--💻  Working on **Machine Learning projects**
+-Working on **Machine Learning projects**
   
--💻 Proficient in **Programming**:  Python,Java,Php
+-Proficient in **Programming**:  Python,Java,Php
   
--🌐 Experienced in **Web Development**: HTML, CSS, JavaScript, ReactJs,Bootstrap,Tailwind
+-Experienced in **Web Development**: HTML, CSS, JavaScript, ReactJs,Bootstrap,Tailwind
 
--⚡ Fun fact **Turning coding challenges into learning adventures, one bug at a time.**
+-Fun fact **Turning coding challenges into learning adventures, one bug at a time.**
 
 
 
