@@ -5,7 +5,7 @@
 
 🎓 I'm a Data Science Engineering student with a passion for Machine Learning, Deep Learning, and building real-world AI applications.
 
-🚀 I love transforming data into smart systems — from predicting house prices to classifying emails using NLP. I'm currently exploring LLMs, computer vision, and ethical AI.
+🚀 I love transforming data into smart systems and I'm currently exploring LLMs, computer vision, and ethical AI.
 
 🔍 I'm continuously learning, contributing to open-source, and connecting with global communities.
 
@@ -15,18 +15,8 @@
 
 **Languages**: Python, Java, C++, PHP, SQL  
 **Libraries**: Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-**Dev Tools**: Jupyter, Git, Docker, Linux  
-**Web**: HTML, CSS, JavaScript, Bootstrap, React
-
----
-
-## 📁 Featured Projects
-
-- 🔤 **[Email Classifier](#)** – Built an NLP model to classify messages using Scikit-learn
-- 🏡 **[House Price Prediction](#)** – Applied regression techniques to predict real estate prices
-- 🧠 **[Digit Recognition](#)** – Used CNNs for image classification on handwritten digits
-
-> 🔗 *More projects coming soon – check my pinned repos!*
+**Web**: HTML, CSS, JavaScript, Bootstrap, Mern Stack , Django
+**Database**: SQl , NoSql , MongoDb , PostgreSql
 
 ---
 
