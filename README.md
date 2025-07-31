@@ -1,35 +1,50 @@
+<h1 align="center">Hi 👋, I'm Tayssir Andolsi</h1>
+<h3 align="center">AI & Data Science Enthusiast | Engineering Student at TEK-UP, Tunisia</h3>
 
-<h1 align="center">Hi , I'm Tayssir Andolsi</h1>
-<h3 align="center">A passionate Engineering Student specialized in Data Science & AI from tunisia</h3>
+---
 
+🎓 I'm a Data Science Engineering student with a passion for Machine Learning, Deep Learning, and building real-world AI applications.
 
-**Engineering Student specialized in Data Science & AI** at Tekup University
-  
--Working on **Machine Learning projects**
-  
--Proficient in **Programming**:  Python,Java,Php
-  
--Experienced in **Web Development**: HTML, CSS, JavaScript, ReactJs,Bootstrap,Tailwind
+🚀 I love transforming data into smart systems — from predicting house prices to classifying emails using NLP. I'm currently exploring LLMs, computer vision, and ethical AI.
 
--Fun fact **Turning coding challenges into learning adventures, one bug at a time.**
+🔍 I'm continuously learning, contributing to open-source, and connecting with global communities.
 
+---
 
+## 🧠 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/tayssir-landolssi-ba1930279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tayssir-landolssi-ba1930279/" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andolsitayssir&label=Profile%20views&color=0e75b6&style=flat" alt="andolsitayssir" /> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Languages**: Python, Java, C++, PHP, SQL  
+**Libraries**: Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
+**Dev Tools**: Jupyter, Git, Docker, Linux  
+**Web**: HTML, CSS, JavaScript, Bootstrap, React
 
-### GitHub Stats
+---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=andolsitayssir&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andolsitayssir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=algolia&hide_border=false" height="200" alt="Top Languages" />
+## 📁 Featured Projects
+
+- 🔤 **[Email Classifier](#)** – Built an NLP model to classify messages using Scikit-learn
+- 🏡 **[House Price Prediction](#)** – Applied regression techniques to predict real estate prices
+- 🧠 **[Digit Recognition](#)** – Used CNNs for image classification on handwritten digits
+
+> 🔗 *More projects coming soon – check my pinned repos!*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andolsitayssir&show_icons=true&theme=algolia" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andolsitayssir&layout=compact&theme=algolia" width="48%" />
 </div>
 
+---
 
+## 🌍 Let's Connect
 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tayssir-landolssi-ba1930279/)
+- 📫 tayssirandolssi@gmail.com
+- 💻 [GitHub](https://github.com/andolsitayssir)
 
+---
+
+> *“I believe technology should be a force for good — let’s build the future together.”*
