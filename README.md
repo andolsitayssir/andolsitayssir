@@ -15,7 +15,7 @@
 
 **Languages**: Python, Java, C++, PHP, SQL  
 **Libraries**: Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-**Web**: HTML, CSS, JavaScript, Bootstrap, Mern Stack , Django
+**Web**: HTML, CSS, JavaScript, Bootstrap, Mern Stack , Django\n
 **Database**: SQl , NoSql , MongoDb , PostgreSql
 
 ---
