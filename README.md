@@ -13,7 +13,7 @@
 
 ## 🧠 Technologies & Tools
 
-**Languages**: Python, Java, C++, PHP, SQL  
+**Languages**: Python, Java, C++, PHP
 **Libraries**: Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
 **Web**: HTML, CSS, JavaScript, Bootstrap, Mern Stack , Django
 
