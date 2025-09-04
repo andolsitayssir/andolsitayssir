@@ -2,16 +2,15 @@
 <h3 align="center">AI & Data Science Enthusiast | Engineering Student at TEK-UP, Tunisia</h3>
 
 ---
+** I'm a Data Science Engineering student with a passion for Machine Learning, Deep Learning, and building real-world AI applications.
 
-🎓 I'm a Data Science Engineering student with a passion for Machine Learning, Deep Learning, and building real-world AI applications.
+** I love transforming data into smart systems and I'm currently exploring LLMs, computer vision, and ethical AI.
 
-🚀 I love transforming data into smart systems and I'm currently exploring LLMs, computer vision, and ethical AI.
-
-🔍 I'm continuously learning, contributing to open-source, and connecting with global communities.
+** I'm continuously learning, contributing to open-source, and connecting with global communities.
 
 ---
 
-## 🧠 Technologies & Tools
+##  Technologies & Tools
 
 **Languages**: Python, Java, C++, PHP
 **Libraries**: Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
@@ -19,7 +18,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andolsitayssir&show_icons=true&theme=algolia" width="48%" />
@@ -28,11 +27,11 @@
 
 ---
 
-## 🌍 Let's Connect
+##  Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tayssir-landolssi-ba1930279/)
-- 📫 tayssirandolssi@gmail.com
-- 💻 [GitHub](https://github.com/andolsitayssir)
+-  [LinkedIn](https://www.linkedin.com/in/tayssir-landolssi-ba1930279/)
+-  tayssirandolssi@gmail.com
+
 
 ---
 
