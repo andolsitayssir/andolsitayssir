@@ -55,22 +55,52 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+ <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" alt="mlflow logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="spark logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"/>
+ <img width="12" />
+ <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"/>
+<img width="12" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
+<img width="12" />
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="40"/>
+<img width="12" />
+
+
+  <br>
+ <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge" />
+
 </div>
 
 
 
 ###
 
-<div align="center">
-  
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andolsitayssir" alt="GitHub Streak"/>
+
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andolsitayssir&layout=compact" alt="Top Languages"/>
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=andolsitayssir" alt="GitHub stats"/>
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andolsitayssir&layout=compact" alt="Top Languages"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andolsitayssir" alt="GitHub Streak"/>
   
   
-</div>
+  
+
 
 ###
 
