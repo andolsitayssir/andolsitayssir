@@ -1,12 +1,19 @@
 <h1 align="center">Hi, I'm Tayssir Andolsi</h1>
-<h3 align="center">AI & Data Science Engineer</h3>
+<h3 align="center">Tunisian AI Engineering Student</h3>
 
+<div align="center">
+  
+  <img src="https://github.com/user-attachments/assets/059db458-85a7-4601-9240-0ac020b3cbfc" width="600" alt="Profile GIF"/>
 
+</div>
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=andolsitayssir)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<div align="center">
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andolsitayssir" alt="GitHub Streak"/>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andolsitayssir&layout=compact)
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=andolsitayssir)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=andolsitayssir" alt="GitHub stats"/>
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andolsitayssir&layout=compact" alt="Top Languages"/>
+  
+  
+</div>
