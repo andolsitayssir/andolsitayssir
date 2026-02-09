@@ -3,3 +3,10 @@
 
 
 
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=andolsitayssir)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andolsitayssir&layout=compact)
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=andolsitayssir)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+
