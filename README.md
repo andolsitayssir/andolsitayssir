@@ -97,7 +97,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=andolsitayssir" alt="GitHub stats"/>
   
    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andolsitayssir" alt="GitHub Streak"/>
-  
+   
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=andolsitayssir&theme=github-compact)
+
   
   
 
