@@ -10,7 +10,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andolsitayssir.andolsitayssir&right_color=deeppink" alt="Visitors" />
 </div>
 
----
+
 
 ##  About Me
 
@@ -19,7 +19,7 @@
 -  Turning data into practical AI solutions
 -  Creating small projects that solve real problems
 
----
+
 
 ##  Tools & Technologies
 
@@ -94,7 +94,6 @@
   <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge" alt="Agentic AI" />
 </div>
 
----
 
 ##  GitHub Stats
 
@@ -106,7 +105,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andolsitayssir&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9A5&fire=FF6B6B&currStreakLabel=00D9A5" alt="GitHub Streak" />
 
----
 <div align="center">
   <i>Always debugging… always learning </i>
 </div>
