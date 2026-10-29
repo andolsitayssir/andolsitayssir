@@ -3,7 +3,7 @@
 <h3 align="center">Junior AI Engineer from Tunisia, North Africa</h3>
 
 <div align="center">
-<img width="400" alt="Girl on Computer with Idea" src="https://github.com/user-attachments/assets/bef578e3-1d9b-423b-b72d-8b1937d7823a" />
+<img width="200" alt="Girl on Computer with Idea" src="https://github.com/user-attachments/assets/bef578e3-1d9b-423b-b72d-8b1937d7823a" />
 </div>
 
 <div align="center">
@@ -96,14 +96,15 @@
 
 
 ##  GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=andolsitayssir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9A5&icon_color=00D9A5" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andolsitayssir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9A5&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andolsitayssir&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9A5&fire=FF6B6B&currStreakLabel=00D9A5" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andolsitayssir&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9A5&fire=FF6B6B&currStreakLabel=00D9A5" alt="GitHub Streak" />
+<img width="400" src="https://ghstats.dev/api/card?username=andolsitayssir&show_ring=false&border_radius=1.5&size=compact" alt="GitHub Stats Card" />
+ <img width="500" src="https://ghstats.dev/api/langs?username=andolsitayssir" alt="Top Languages" />
+</div>
+
 
 <div align="center">
   <i>Always debugging… always learning </i>
